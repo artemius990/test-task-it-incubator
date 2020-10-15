@@ -1,0 +1,22 @@
+h1{
+    color:blue;
+    font-size: 54px;
+}
+
+.text{
+    padding: 10px;
+    size: 15px;
+    border:2px solid red;
+}
+
+.text:focus{
+    border:2px solid green;
+}
+
+button{
+    background:green;    
+    border:25px;
+    height:45px;
+    width:100px;
+    color:yellow;
+}
